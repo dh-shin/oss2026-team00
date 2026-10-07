@@ -5,3 +5,4 @@
 | GitHub | 맡은 일 |
 |---|---|
 | @dh-shin | 화면 구성 |
+| @kw-dhshin | 서버 |
